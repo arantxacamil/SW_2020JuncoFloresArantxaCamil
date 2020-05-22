@@ -1,0 +1,96 @@
+[Dd]rogas.(0[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[0-2])\/20(0[5-9]|1[0-9]|20)
+Match 1
+Full match	81-98	Drogas 22/10/2008
+Group 1.	88-90	22
+Group 2.	91-93	10
+Group 3.	96-98	08
+Match 2
+Full match	694-711	Drogas 19/09/2018
+Group 1.	701-703	19
+Group 2.	704-706	09
+Group 3.	709-711	18
+Match 3
+Full match	1133-1150	Drogas 16/03/2005
+Group 1.	1140-1142	16
+Group 2.	1143-1145	03
+Group 3.	1148-1150	05
+Match 4
+Full match	2511-2528	Drogas 25/10/2018
+Group 1.	2518-2520	25
+Group 2.	2521-2523	10
+Group 3.	2526-2528	18
+Match 5
+Full match	3612-3629	Drogas 17/12/2006
+Group 1.	3619-3621	17
+Group 2.	3622-3624	12
+Group 3.	3627-3629	06
+Match 6
+Full match	4574-4591	Drogas 27/11/2009
+Group 1.	4581-4583	27
+Group 2.	4584-4586	11
+Group 3.	4589-4591	09
+Match 7
+Full match	5132-5149	Drogas 30/10/2006
+Group 1.	5139-5141	30
+Group 2.	5142-5144	10
+Group 3.	5147-5149	06
+Match 8
+Full match	5200-5217	Drogas 19/01/2016
+Group 1.	5207-5209	19
+Group 2.	5210-5212	01
+Group 3.	5215-5217	16
+Match 9
+Full match	7388-7405	Drogas 28/03/2010
+Group 1.	7395-7397	28
+Group 2.	7398-7400	03
+Group 3.	7403-7405	10
+Match 10
+Full match	7526-7543	Drogas 31/10/2011
+Group 1.	7533-7535	31
+Group 2.	7536-7538	10
+Group 3.	7541-7543	11
+Match 11
+Full match	8727-8744	Drogas 02/01/2006
+Group 1.	8734-8736	02
+Group 2.	8737-8739	01
+Group 3.	8742-8744	06
+Match 12
+Full match	8914-8931	Drogas 24/05/2016
+Group 1.	8921-8923	24
+Group 2.	8924-8926	05
+Group 3.	8929-8931	16
+Match 13
+Full match	9232-9249	Drogas 19/10/2014
+Group 1.	9239-9241	19
+Group 2.	9242-9244	10
+Group 3.	9247-9249	14
+Match 14
+Full match	9837-9854	Drogas 13/09/2013
+Group 1.	9844-9846	13
+Group 2.	9847-9849	09
+Group 3.	9852-9854	13
+Match 15
+Full match	10175-10192	Drogas 29/10/2019
+Group 1.	10182-10184	29
+Group 2.	10185-10187	10
+Group 3.	10190-10192	19
+Match 16
+Full match	10420-10437	Drogas 15/08/2017
+Group 1.	10427-10429	15
+Group 2.	10430-10432	08
+Group 3.	10435-10437	17
+Match 17
+Full match	10518-10535	Drogas 11/10/2013
+Group 1.	10525-10527	11
+Group 2.	10528-10530	10
+Group 3.	10533-10535	13
+Match 18
+Full match	12426-12443	Drogas 07/03/2005
+Group 1.	12433-12435	07
+Group 2.	12436-12438	03
+Group 3.	12441-12443	05
+Match 19
+Full match	13996-14013	Drogas 06/07/2008
+Group 1.	14003-14005	06
+Group 2.	14006-14008	07
+Group 3.	14011-14013	08
